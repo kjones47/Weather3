@@ -11,5 +11,5 @@ On Sep.2 Decided on weather app. Added more textviews, strings, organized layout
 On Sep.4 Used button instead for converting. I added tabs, and changed the name, it created an issue with missing module when building the app
 On Sep.6 I tried out tab fragment activity but didnt need them, edited ids and linked them with mainactivity
 On Sep.7 I fixed string resource warnings, added conversion functions, used the pixel 2 emulator
-On Sep.8 I added colors and images, and added a floating action button
+On Sep.8 I added colors and images, and added a floating action button, learned how to upload whole project android studio
 
